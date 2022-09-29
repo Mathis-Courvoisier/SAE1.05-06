@@ -7,6 +7,6 @@ Etudiant 3 nom : Adam Berrehail
 Etudiant 4 nom : Meydi Bresson
 Etudiant 5 nom : Simon Parmé
 
-URL du site github page : 	https://htmlpreview.github.io/?https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/index.html
+URL du site github page : https://Mathis-Courvoisier.github.io/SAE1.05-06/
 
 URL du projet github : https://github.com/Mathis-Courvoisier/SAE1.05-06
