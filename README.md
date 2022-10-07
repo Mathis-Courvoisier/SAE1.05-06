@@ -17,8 +17,14 @@ Page d'accueil :
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/wf1.png)
 
 
+
+
+
 Page d'histoire : 
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/wf2.png)
+
+
+
 
 
 Page informatives :
