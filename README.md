@@ -17,10 +17,10 @@ Page d'accueil :
 
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/wf1.png)
 
-Page d'histoire : 
+Page informatives : 
 
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/wf2.png)
 
-Page informatives :
+Page histoire :
 
 ![alt text]( https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/wf3.png)
