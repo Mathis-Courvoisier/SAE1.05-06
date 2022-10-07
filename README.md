@@ -24,3 +24,10 @@ Page informatives :
 Page histoire :
 
 ![alt text]( https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/wf3.png)
+
+
+Prototype page d'accueil:
+
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/Page1_site.png)
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/Page2_site.png)
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/Page3_site.png)
