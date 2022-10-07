@@ -17,7 +17,7 @@ Page d'accueil :
 
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/wf1.png)
 
-Page informatives : 
+Pages informatives : 
 
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/wf2.png)
 
@@ -31,3 +31,19 @@ Prototype page d'accueil:
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/Page1_site.png)
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/page2_site.png)
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/page3_site.png)
+
+
+
+
+
+Zoning Page d'accueil:
+
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/Zoning%20PageAccueil.png)
+
+Zoning Page d'histoire:
+
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/ZoningPageHistoire.png)
+
+Zoning Pages informatives:
+
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/ZoningPageInformative.png)
