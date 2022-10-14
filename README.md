@@ -38,7 +38,7 @@ Prototype page d'accueil:
 
 Zoning Page d'accueil:
 
-![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/zoning_acc.xcf)
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/zoning_acc.png)
 
 Zoning Page d'histoire:
 
