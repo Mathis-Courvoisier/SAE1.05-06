@@ -28,7 +28,7 @@ Page histoire :
 
 Prototype page d'accueil:
 
-![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/Page1_site.png)
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/aper%C3%A7u1.png)
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/page2_site.png)
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/page3_site.png)
 
