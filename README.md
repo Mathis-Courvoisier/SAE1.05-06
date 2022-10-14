@@ -15,7 +15,7 @@ URL du projet github : https://github.com/Mathis-Courvoisier/SAE1.05-06
 
 Page d'accueil : 
 
-![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/wf1.png)
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/img1)
 
 Pages informatives : 
 
