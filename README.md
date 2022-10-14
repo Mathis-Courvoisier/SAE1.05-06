@@ -42,6 +42,5 @@ Prototype page d'accueil:
 
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/zoning_hist.png)
 
-Zoning Pages informatives:
 
-![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/SAE1.05.06/images/ZoningPageInformative.png)
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/zoning_info.png)
