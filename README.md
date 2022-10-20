@@ -44,3 +44,11 @@ Prototype page d'accueil:
 
 
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/zoning_info.png)
+
+
+Validations W3C des 5 pages:
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/w3c/W3C-activite.png)
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/w3c/W3C-economie.png)
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/w3c/W3C-presentation.png)
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/w3c/W3C-index.png)
+![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/w3c/W3C-histoire.png)
