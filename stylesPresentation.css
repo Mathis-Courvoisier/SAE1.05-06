@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Capriola&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500&display=swap');
+
+/* 
+_____ COLORS _____
+
+#141414 -> black 
+#EEF0F2 -> white
+#0D21A1 -> white blue
+#011638 -> dark blue
+#EEC643 -> yellow 
+
+*/
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* font-family: 'Capriola', sans-serif; */
+
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 15%;
+    margin-top: 0%;
+
+    margin-left: 35%;
+    background: white;
+    background: radial-gradient(circle, white 0%, #f1fffe 100%);
+    position: relative;
+    background-size: cover;
+    border-color: #141414;
+    border-style: calc();
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: rgb(0, 0, 0);
+    outline-width: thin;
+    ;
+
+}
+
+p {
+    font-size: 17px;
+    padding-bottom: 20px;
+}
+
+h4 {
+    font-size: 25px;
+    padding-bottom: 20px;
+    border-bottom: solid 1px black;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    /* 5px taille des contours */
+
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: 2px 16px;
+    color: #141414;
+}
+
+
+/* Ajoute des bords arrondis a la card*/
+image {
+    border-radius: 5px 5px 0 0;
+    padding-right: 40px;
+}
+
+.zoom {
+    width: 320px;
+    height: 240px;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+}
+
+.card img {
+    /* La transition s'applique à la fois sur la largeur et la hauteur, avec une durée d'une demi seconde. */
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.image img:hover {
+    /* L'image est grossie de 25% */
+    -webkit-transform: scale(1.10);
+    -moz-transform: scale(1.10);
+    -ms-transform: scale(1.10);
+    -o-transform: scale(1.10);
+    transform: scale(1.10);
+}
+
+/* Chaque ligne correspond a une version différente d'explorer utilisable*/
+
+.card {
+    display: grid;
+    width: 540px;
+    align-items: start;
+    justify-content: space-between;
+}
+
+.body {
+    color: black;
+    background-color: white;
+    background-image: url(./images/Fond3.gif);
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+
+.sommaire {
+    position: fixed;
+    color: white;
+    line-height: 25px;
+    font-size: 18px;
+    padding-left: 20px;
+    margin-top: 200px;
+}
