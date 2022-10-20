@@ -52,3 +52,11 @@ Validations W3C des 5 pages:
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/w3c/W3C-presentation.png)
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/w3c/W3C-index.png)
 ![alt text](https://github.com/Mathis-Courvoisier/SAE1.05-06/blob/main/w3c/W3C-histoire.png)
+
+
+Notes d'investssement dans la SAE:
+- Meydi +2
+- Simon +1
+- Noham +0
+- Adam +0
+- Mathis +0
